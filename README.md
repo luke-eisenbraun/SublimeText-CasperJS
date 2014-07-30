@@ -6,7 +6,7 @@ Borrowed heavily from the [official plugin](https://github.com/n1k0/SublimeText-
 A collection of [CasperJS](http://casperjs.org/) snippets bundled for
 [SublimeText2](http://sublimetext.com/2) or [SublimeText3](http://www.sublimetext.com/3).
 
-![](https://s3.amazonaws.com/f.cl.ly/items/3V3O0F1i2319102t3L2h/fg76.gif)
+![](https://s3.amazonaws.com/uploads.hipchat.com/22870/324564/HGIRjojz4hePQnL/test.gif)
 
 Available Methods
 ------------------
